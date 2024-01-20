@@ -2,6 +2,7 @@
 
 ## Overview
 Dataset avaliable from: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data
+
 Dataset uploaded to MySQL server and hooked up to Power BI to create this sales dashboard report examining peak business periods, revenue, orders by product lines and deal sizes and top and bottom sellers for the business.
 
 Slicers avaliable for Country, Product Line and Date Period so the business can DIY visualise aspects of the data as they desire.
